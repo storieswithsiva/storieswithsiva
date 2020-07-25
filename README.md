@@ -1,6 +1,6 @@
 ### Hi there 👋
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fiamsivab%2Fiamsivab)](https://hits.seeyoufarm.com)
-[![HitCount](http://hits.dwyl.com/iamsivab/iamsivab.svg)](http://hits.dwyl.com/iamsivab/iamsivab)
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Fiamsivab%2Fiamsivab)
 
 <!--
 **iamsivab/iamsivab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
