@@ -1,5 +1,7 @@
 ### Hi there 👋
-![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Fiamsivab%2Fiamsivab)[![GitHub followers](https://img.shields.io/github/followers/iamsivab.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/iamsivab?tab=followers)
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Fiamsivab%2Fiamsivab)
+
+[![GitHub followers](https://img.shields.io/github/followers/iamsivab.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/iamsivab?tab=followers)
 
 
 # Creative Storyteller • Brand Strategist • Business Intelligence Analyst • Data Science Enthusiast • Business Data Analyst • Growth Hacker • TEDx Speaker #
