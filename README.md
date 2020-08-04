@@ -51,7 +51,7 @@ Happy Analysing :)
 
 :email: Feel free to contact me @ [balasiva001@gmail.com](https://mail.google.com/mail/)
 
-[![GMAIL](https://img.shields.io/static/v1.svg?label=send&message=balasiva001@gmail.com&color=red&logo=gmail&style=social)](https://www.github.com/iamsivab) [![Twitter Follow](https://img.shields.io/twitter/follow/storieswithsiva?style=social)](https://twitter.com/iamsivab)
+[![GMAIL](https://img.shields.io/static/v1.svg?label=send&message=balasiva001@gmail.com&color=red&logo=gmail&style=social)](https://www.github.com/iamsivab) [![Twitter Follow](https://img.shields.io/twitter/follow/storieswithsiva?style=social)](https://twitter.com/storieswithsiva)
 
 
 ✨[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fiamsivab%2Fiamsivab)](https://hits.seeyoufarm.com)✨
