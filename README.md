@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Fstorieswithsiva%2Fstorieswithsiva)
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Fiamsivab%2Fiamsivab)
 
 [![GitHub followers](https://img.shields.io/github/followers/storieswithsiva.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/storieswithsiva?tab=followers)
 
@@ -58,7 +58,7 @@ Please peruse the portfolio samples featured on my profile page. Should you requ
 [![GMAIL](https://img.shields.io/static/v1.svg?label=send&message=balasiva001@gmail.com&color=red&logo=gmail&style=social)](https://www.github.com/storieswithsiva) [![Twitter Follow](https://img.shields.io/twitter/follow/storieswithsiva?style=social)](https://twitter.com/storieswithsiva)
 
 
-✨[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fstorieswithsiva%2Fstorieswithsiva)](https://hits.seeyoufarm.com)✨
+✨[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fiamsivab%2Fiamsivab)](https://hits.seeyoufarm.com)✨
 
 ### License
 
