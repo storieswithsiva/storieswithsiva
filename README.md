@@ -10,7 +10,7 @@ _I`ve always taken life as a journey from one experience to another. So far it h
 
 ## Here are some ideas to get you started
 
-[![Generic badge](https://img.shields.io/badge/Creative-Storyteller-Red.svg?style=for-the-badge)](instagram.com/storieswithsiva)
+[![Generic badge](https://img.shields.io/badge/Creative-Storyteller-Red.svg?style=for-the-badge)](https://www.instagram.com/storieswithsiva)
 
 
 ## Social Connect: 
