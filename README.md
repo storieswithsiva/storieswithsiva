@@ -4,9 +4,17 @@
 [![GitHub followers](https://img.shields.io/github/followers/storieswithsiva.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/storieswithsiva?tab=followers)
 
 
-# Creative Storyteller • Brand Strategist • Business Intelligence Analyst • Data Science Enthusiast • Business Data Analyst • Growth Hacker • TEDx Speaker #
+# Building Products that Transforms Businesses & Empowers People • Creative Storyteller • Growth Product Manager • Pitch Deck Expert #
 
-_I`ve always taken life as a journey from one experience to another. So far it has been a road full of interesting events and people. Full of love and happiness and also there has been lots of letting go of events, places, and people. I`ve never stopped creating new life events because in my eyes life is a pure act of creation full of opportunities that arise from every new moment_
+_My aim for every product is to build an audience of customers that share the product mission._
+
+_I live by this principle:_
+
+_“Genuinely be the best at what I do.”_
+
+_Work with the best company. Collaborate with the best team. Be the best PM any company could hire. Create the best product._
+
+_At the end of the day, my goal is to bring products to life. Viewing a product or feature from the user’s eyes, creating an optimized experience, and building ‘wow’ products get me up from bed_
 
 [![Generic badge](https://img.shields.io/badge/Creative-Storyteller-Red.svg?style=for-the-badge)](https://www.instagram.com/storieswithsiva)
 
@@ -16,36 +24,30 @@ _I`ve always taken life as a journey from one experience to another. So far it h
 
 ## Here are some ideas to get you started:
 
-### 🔭 I’m currently working on `managing my time, and be productive.`
-### 🌱 I’m currently learning [![Generic badge](https://img.shields.io/badge/Artificial-Intelligence-blue.svg?style=for-the-badge)](https://github.com/storieswithsiva/Data-Science-Resources) [![Generic badge](https://img.shields.io/badge/Growth-Strategies-orange.svg?style=for-the-badge)](https://github.com/storieswithsiva/Data-Science-Resources)
+### 🔭 I’m currently working on `managing my time, and being productive.`
+### 🌱 I’m currently learning [![Generic badge](https://img.shields.io/badge/Product-Management-blue.svg?style=for-the-badge)](https://github.com/storieswithsiva/Data-Science-Resources) [![Generic badge](https://img.shields.io/badge/Growth-Strategies-orange.svg?style=for-the-badge)](https://github.com/storieswithsiva/Data-Science-Resources)
 ### 👯 I’m looking to collaborate on `on any idea that impresses me.`
-### 🤔 I’m looking for help with `Finance & Stock Markets`
-### 💬 Ask me about ` Web Development, Machine Learning, Design, Marketing, Sales, Business Analysis`
-### 📫 How to reach me: `Storieswithsiva`
+### 🤔 I’m looking for help with `Cryptocurrency & Stock Market`
+### 💬 Ask me about ` Product Development, Product Management, Design, Marketing, Sales, Business Analysis`
+### 📫 How to reach me: `www.storieswithsiva.com`
 ### 😄 Nick Name: `Bob`
 ### ⚡ Fun fact:  `I love Irish Coffee ☕`
 
-Our data are something that fuels the meaning of life. With data, we create our realities. That is why my journey has taken me to work with data.
+When you genuinely create the best product, you’ll find out that the burden of campaigning is far lighter because the product speaks for itself.
 
-The journey has taken me through education in University College Cork where I will be graduating with a Postgraduate degree in Data Science and Analytics. During University time I was an active member of a student organization. It gave me good knowledge about corporation lifestyle, organizing of events and abilities to communicate with people from various fields of expertise.
+What was once part of your customers will become part of your army, defending your product and mission because it’s now their product and mission.
 
-```` Whether an emerging brand or an established presence rolling out a new product or service, I work closely with my clients on constructing an immersive narrative that can grow and evolve to define a brand. From there, I provide all the building blocks necessary to turn a project from an idea to a completed suite of marketing capital.. ````
+```` I like to solve problems. My intellectual curiosity has driven me to find answers to the most pressing questions throughout my career. Whether relating to the market trend for a product or finding a rare, unique selling point for a brand, I’ve been able to quickly uncover a customer’s pain point, develop a story around a product, and generate over 47% increase in revenue for businesses.````
 
-I operate under a very simple philosophy: that top-tier work is the result of communication with my clients, collaboration on common goals, and clarity of intent, from start to finish. These elements ensure a streamlined process, and an end result we can all be proud of.
+I’m a highly motivated individual who is very driven to find the gap and come up with practical solutions geared toward bringing projects to life. I’ve worked extensively in various industries that include but are not limited to non-profit, for-profit, technical-savvy brands, and finance/business development, having gained experience in the following functions along the way - UI/UX Design, marketing, business analysis, operations, and advertising.
 
-We’re human beings; stories define us. It’s one thing to have an exceptional product or service, but without a cohesive narrative tying a brand together (especially in an age of abbreviated attention spans), a message can be easily lost.
+4+ years of experience working as a Growth Product Manager for top listed companies with experience in capital fundraising, investor relations, financial analysis, sales, and reporting.
 
-I work closely with you on establishing their brand narrative. Together, we determine the target audience, establish guidelines, generate a content strategy, and brainstorm novel ways to get the message out there.
+I like to think that it’s my real-world experience that sets me apart. These experiences give me unique insight into what people want and how to create user-focused products.
 
-And for existing brands, those for whom the voice is firmly engrained, I possess a well-honed ability to pair my own voice and aesthetic with an established identity.
+For a cross-functional team, great collaboration is mandatory. I exhibit emotional intelligence to help teams work well together and achieve a high-performing state.
 
-With this considered, I help you fill in the blanks and define their intent. Before a single sentence of copy is written, everyone is on the same page, with goals solidly in place.
-
-As a creative consultant as well as a content provider, I exercise a well-developed acumen in my field and expect a capacity for productive collaboration from you. Deadline-driven pieces are preferable: a career in magazines has hammered respect for delivery dates deeply into my workflow.
-
-I'm also really easy to get along with, which, believe it or not, is one of the most important aspects of taking your idea and translating it to the page.
-
-Please peruse the portfolio samples featured on my profile page. Should you require specific examples of writing/editing, references, or additional information, please let me know via private message 
+As a leader, on a more personal level, I love building teams that are driven by the power found at the intersection of technology & marketing. My willingness to serve customers selflessly has led me to create stories and strategies to unlock new growth.
 
 ### Need help?
 
