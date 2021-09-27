@@ -26,7 +26,7 @@ _At the end of the day, my goal is to bring products to life. Viewing a product 
 
 ### 🔭 I’m currently working on `managing my time, and being productive.`
 ### 🌱 I’m currently learning [![Generic badge](https://img.shields.io/badge/Product-Management-blue.svg?style=for-the-badge)](https://github.com/storieswithsiva/Data-Science-Resources) [![Generic badge](https://img.shields.io/badge/Growth-Strategies-orange.svg?style=for-the-badge)](https://github.com/storieswithsiva/Data-Science-Resources)
-### 👯 I’m looking to collaborate on `on any idea that impresses me.`
+### 👯 I’m looking to collaborate `on any idea that impresses me.`
 ### 🤔 I’m looking for help with `Cryptocurrency & Stock Market`
 ### 💬 Ask me about ` Product Development, Product Management, Design, Marketing, Sales, Business Analysis`
 ### 📫 How to reach me: `www.storieswithsiva.com`
