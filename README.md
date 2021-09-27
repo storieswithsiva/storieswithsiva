@@ -4,7 +4,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/storieswithsiva.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/storieswithsiva?tab=followers)
 
 
-# Building Products that Transforms Businesses & Empowers People • Creative Storyteller • Growth Product Manager • Pitch Deck Expert #
+# I love Building Products that Transforms Businesses & Empowers People • Creative Storyteller • Growth Product Manager • Pitch Deck Expert #
 
 _My aim for every product is to build an audience of customers that share the product mission._
 
@@ -57,8 +57,6 @@ As a leader, on a more personal level, I love building teams that are driven by 
 
 [![GMAIL](https://img.shields.io/static/v1.svg?label=send&message=balasiva001@gmail.com&color=red&logo=gmail&style=social)](https://www.github.com/storieswithsiva) [![Twitter Follow](https://img.shields.io/twitter/follow/storieswithsiva?style=social)](https://twitter.com/storieswithsiva)
 
-
-✨[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fiamsivab%2Fiamsivab)](https://hits.seeyoufarm.com)✨
 
 ### License
 
