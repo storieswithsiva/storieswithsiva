@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Fiamsivab%2Fiamsivab)
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Fstorieswithsiva%2Fstorieswithsiva)
 
 [![GitHub followers](https://img.shields.io/github/followers/storieswithsiva.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/storieswithsiva?tab=followers)
 
