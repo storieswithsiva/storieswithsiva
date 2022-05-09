@@ -22,6 +22,37 @@ _At the end of the day, my goal is to bring products to life. Viewing a product 
 ## Social Connect: 
 [![Generic badge](https://img.shields.io/badge/LinkedIn-Connect-blue.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/storieswithsiva/) 
 
+## Skills:
+
+<p align="left">
+<a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+<a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/swift-colored.svg" width="36" height="36" alt="Swift" /></a>
+<a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ruby-colored.svg" width="36" height="36" alt="Ruby" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
+<a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
+<a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a>
+<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
+<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" alt="Fast API" /></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
+<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
+<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
+<a href="adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a>
+<a href="https://www.adobe.com/uk/products/aftereffects.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aftereffects-colored.svg" width="36" height="36" alt="After Effects" /></a>
+<a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" width="36" height="36" alt="Premiere Pro" /></a>
+<a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg" width="36" height="36" alt="XD" /></a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+<a href="https://www.sketch.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sketch-colored.svg" width="36" height="36" alt="Sketch" /></a>
+<a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="36" height="36" alt="MetaMask" /></a>
+<a href="https://web3js.readthedocs.io/en/v1.7.1/#" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/web3js-colored.svg" width="36" height="36" alt="Web3Js" /></a>
+<a href="https://near.academy/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/near-colored.svg" width="36" height="36" alt="Near" /></a>
+<a href="https://solana.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/solana-colored.svg" width="36" height="36" alt="Solana" /></a>
+</p>
+
 ## Here are some ideas to get you started:
 
 ### 🔭 I’m currently working on `managing my time, and being productive.`
@@ -49,11 +80,12 @@ For a cross-functional team, great collaboration is mandatory. I exhibit emotion
 
 As a leader, on a more personal level, I love building teams that are driven by the power found at the intersection of technology & marketing. My willingness to serve customers selflessly has led me to create stories and strategies to unlock new growth.
 
-### Need help?
 
-[![Facebook](https://img.shields.io/static/v1.svg?label=follow&message=@storieswithsiva&color=9cf&logo=facebook&style=flat&logoColor=white&colorA=informational)](https://www.facebook.com/storieswithsiva)  [![Instagram](https://img.shields.io/static/v1.svg?label=follow&message=@storieswithsiva&color=grey&logo=instagram&style=flat&logoColor=white&colorA=critical)](https://www.instagram.com/storieswithsiva/) [![LinkedIn](https://img.shields.io/static/v1.svg?label=connect&message=@storieswithsiva&color=success&logo=linkedin&style=flat&logoColor=white&colorA=blue)](https://www.linkedin.com/in/storieswithsiva/)
+## Socials:
 
-:email: Feel free to contact me @ [balasiva001@gmail.com](https://mail.google.com/mail/)
+<p align="left"> <a href="https://www.behance.com/storieswithsiva" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/behance.svg" width="32" height="32" /></a> <a href="https://www.dev.to/storieswithsiva" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a> <a href="https://www.dribbble.com/storieswithsiva" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/dribbble.svg" width="32" height="32" /></a> <a href="https://www.facebook.com/storieswithsiva" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/storieswithsiva" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://hashnode.com/@storieswithsiva" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/storieswithsiva" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/storieswithsiva" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@storieswithsiva" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/storieswithsiva" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/storieswithsiva" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+
+:email: Feel free to contact me [storieswithsiva](https://www.storieswithsiva.com)
 
 [![GMAIL](https://img.shields.io/static/v1.svg?label=send&message=balasiva001@gmail.com&color=red&logo=gmail&style=social)](https://www.github.com/storieswithsiva) [![Twitter Follow](https://img.shields.io/twitter/follow/storieswithsiva?style=social)](https://twitter.com/storieswithsiva)
 
@@ -62,9 +94,11 @@ As a leader, on a more personal level, I love building teams that are driven by 
 
 MIT &copy; [Sivasubramanian](https://github.com/storieswithsiva/storieswithsiva/blob/master/LICENSE)
 
-[![](https://sourcerer.io/fame/storieswithsiva/storieswithsiva/storieswithsiva/images/0)](https://sourcerer.io/fame/storieswithsiva/storieswithsiva/storieswithsiva/links/0)[![](https://sourcerer.io/fame/storieswithsiva/storieswithsiva/storieswithsiva/images/1)](https://sourcerer.io/fame/storieswithsiva/storieswithsiva/storieswithsiva/links/1)[![](https://sourcerer.io/fame/storieswithsiva/storieswithsiva/storieswithsiva/images/2)](https://sourcerer.io/fame/storieswithsiva/storieswithsiva/storieswithsiva/links/2)[![](https://sourcerer.io/fame/storieswithsiva/storieswithsiva/storieswithsiva/images/3)](https://sourcerer.io/fame/storieswithsiva/storieswithsiva/storieswithsiva/links/3)[![](https://sourcerer.io/fame/storieswithsiva/storieswithsiva/storieswithsiva/images/4)](https://sourcerer.io/fame/storieswithsiva/storieswithsiva/storieswithsiva/links/4)[![](https://sourcerer.io/fame/storieswithsiva/storieswithsiva/storieswithsiva/images/5)](https://sourcerer.io/fame/storieswithsiva/storieswithsiva/storieswithsiva/links/5)[![](https://sourcerer.io/fame/storieswithsiva/storieswithsiva/storieswithsiva/images/6)](https://sourcerer.io/fame/storieswithsiva/storieswithsiva/storieswithsiva/links/6)[![](https://sourcerer.io/fame/storieswithsiva/storieswithsiva/storieswithsiva/images/7)](https://sourcerer.io/fame/storieswithsiva/storieswithsiva/storieswithsiva/links/7)
-
 
 [![GitHub license](https://img.shields.io/github/license/storieswithsiva/storieswithsiva.svg?style=social&logo=github)](https://github.com/storieswithsiva/storieswithsiva/blob/master/LICENSE) 
 [![GitHub forks](https://img.shields.io/github/forks/storieswithsiva/storieswithsiva.svg?style=social)](https://github.com/storieswithsiva/network) [![GitHub stars](https://img.shields.io/github/stars/storieswithsiva/storieswithsiva.svg?style=social)](https://github.com/storieswithsiva/storieswithsiva/stargazers) [![GitHub followers](https://img.shields.io/github/followers/storieswithsiva.svg?label=Follow&style=social)](https://github.com/storieswithsiva/)[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/storieswithsiva/ama)
+
+## Support Me
+
+<a href="https://www.buymeacoffee.com/storieswithsiva"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
 
