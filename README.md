@@ -58,7 +58,7 @@ _At the end of the day, my goal is to bring products to life. Viewing a product 
 ### 🔭 I’m currently working on `managing my time, and being productive.`
 ### 🌱 I’m currently learning [![Generic badge](https://img.shields.io/badge/Product-Management-blue.svg?style=for-the-badge)](https://github.com/storieswithsiva/Data-Science-Resources) [![Generic badge](https://img.shields.io/badge/Growth-Strategies-orange.svg?style=for-the-badge)](https://github.com/storieswithsiva/Data-Science-Resources)
 ### 👯 I’m looking to collaborate `on any idea that impresses me.`
-### 🤔 I’m looking for help with `Cryptocurrency & Stock Market`
+### 🤔 I’m looking for help with `Finance`
 ### 💬 Ask me about ` Product Development, Product Management, Design, Marketing, Sales, Business Analysis`
 ### 📫 How to reach me: `www.storieswithsiva.com`
 ### 😄 Nick Name: `Bob`
@@ -72,7 +72,7 @@ What was once part of your customers will become part of your army, defending yo
 
 I’m a highly motivated individual who is very driven to find the gap and come up with practical solutions geared toward bringing projects to life. I’ve worked extensively in various industries that include but are not limited to non-profit, for-profit, technical-savvy brands, and finance/business development, having gained experience in the following functions along the way - UI/UX Design, marketing, business analysis, operations, and advertising.
 
-4+ years of experience working as a Growth Product Manager for top listed companies with experience in capital fundraising, investor relations, financial analysis, sales, and reporting.
+7+ years of experience working as a Growth & AdTech Product Manager for top listed companies. I also have experience in capital fundraising, investor relations, financial analysis, sales, and reporting.
 
 I like to think that it’s my real-world experience that sets me apart. These experiences give me unique insight into what people want and how to create user-focused products.
 
